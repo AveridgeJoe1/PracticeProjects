@@ -1,6 +1,7 @@
 # Web Review 01 : Web Request Autopsy 🔎
 
-## Disclaimer : I am not an expert web developer so take all of this with a grain of salt. It's more just to go through the dev tools
+## Disclaimer : 
+I am not an expert web developer so take all of this with a grain of salt. It's more just to go through the dev tools
 
 ## Task :
 
