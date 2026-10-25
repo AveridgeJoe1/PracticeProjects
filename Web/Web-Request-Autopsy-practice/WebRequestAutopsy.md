@@ -1,5 +1,7 @@
 # Web Review 01 : Web Request Autopsy 🔎
 
+## Disclaimer : I am not an expert web developer so take all of this with a grain of salt. It's more just to go through the dev tools
+
 ## Task :
 
 - Select 3 sites and 1 page "request autopsy" using browser developer tools, the timeline of the main document request, number of requests,total bytes, render blocking resources, and possible optimizations (probably picked using lighthouse), written as "phase" or "bottleneck"
